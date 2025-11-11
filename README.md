@@ -55,20 +55,6 @@ The project follows a multi-tier architecture to ensure scalability, reliability
 
 *(You can add the 'Figure 2.2.2 System Architecture' image from page 20 here for a visual representation)*
 
-## 📸 Screenshots
-
-Here are a few screenshots from the application (as seen in Chapter 7 of the project book):
-
-| Home Page | User Dashboard |
-| :---: | :---: |
-|  |  |
-| **Skill Gap Analysis Report** | **Course Recommendation Page** |
-|  |  |
-| **Job Recommendation Page** | **Admin Dashboard** |
-|  |  |
-
-*(**Note:** You will need to take these screenshots and upload them to your repository, then update the `` paths.)*
-
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
